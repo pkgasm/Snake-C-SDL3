@@ -1,0 +1,28 @@
+# Archivos compilados y ejecutables
+*.o
+*.obj
+*.exe
+*.out
+snake
+snake.exe
+
+# Bibliotecas compiladas
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Directorios de compilación
+build/
+bin/
+obj/
+
+# Archivos generados por el usuario
+highscore.txt
+
+# Archivos específicos de IDEs
+.vscode/
+.idea/
+*.suo
+*.user
