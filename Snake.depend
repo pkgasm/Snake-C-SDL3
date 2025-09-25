@@ -6,7 +6,7 @@
 1758669684 c:\files\develops\opensource\c\snake\game.h
 	"defs.h"
 
-1758670210 c:\files\develops\opensource\c\snake\defs.h
+1758732303 c:\files\develops\opensource\c\snake\defs.h
 	<SDL3/SDL.h>
 	<SDL3_ttf/SDL_ttf.h>
 	<stdbool.h>
@@ -494,7 +494,7 @@
 	<SDL3/SDL_begin_code.h>
 	<SDL3/SDL_close_code.h>
 
-1758669833 source:c:\files\develops\opensource\c\snake\main.c
+1758671335 source:c:\files\develops\opensource\c\snake\main.c
 	<stdio.h>
 	<stdlib.h>
 	<time.h>

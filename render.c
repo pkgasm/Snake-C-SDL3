@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 void render_text(Game* game, const char* text, float x, float y, SDL_Color color, bool centered, const SDL_FRect* container) {
-    SDL_Surface* surface = TTF_RenderText_Solid(game->font, text, color);
+    SDL_Surface* surface = TTF_RenderText_Solid(game->font, text, 0, color);
     if (!surface) return;
     
     SDL_Texture* texture = SDL_CreateTextureFromSurface(game->renderer, surface);
